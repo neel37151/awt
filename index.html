@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link
+         href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+         rel="stylesheet"
+         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+         crossorigin="anonymous"
+         />
+      <script
+         src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+         integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+         crossorigin="anonymous"
+         ></script>
+      <link rel="stylesheet" href="style.css" />
+      <title>Insightful</title>
+   </head>
+   <body>
+      <div class="hero-image">
+         <!-- NavBar -->
+         <nav class="navbar ">
+            <div class="name">
+               <samp> Insightful Blog</samp>
+            </div>
+            <div class="navigation">
+               <ul class="nav-link">
+                  <li class="links">Home</li>
+                  <li class="links">About Us</li>
+                  <li class="nav-item dropdown links">
+                     <link class="dropbtn">
+                     Categories </link>
+                     <div class="dropdown-content">
+                        <a href="#">Technology</a>
+                        <a href="#">Travel</a>
+                        <a href="#">Food</a>
+                     </div>
+                  </li>
+                  <li class="links">Contact</li>
+               </ul>
+               <div class="menu" onclick="menu()">
+                  <img id="icon" src="./images/menu.png" alt="" srcset="">
+               </div>
+            </div>
+         </nav>
+         <!-- Hero Section -->
+         <div class="hero-text">
+            <h1>Write a Blog and Post it.</h1>
+            <p>Unlocking the Power of Knowledge</p>
+            <button class="btn explor-btn">Explore Blogs</button>
+         </div>
+      </div>
+      <div class="content">
+      <!-- News Feed -->
+         <div class="news">
+            <div class="sectio-head">
+            <h2 class="section_title">Latest News</h2>
+            <li class="nav-item dropdown links filter">
+               <button class="dropbtn">Categories</button>
+               <div class="dropdown-content">   
+                  <a onclick="filterData('tech','news')">Technology</a>
+                  <a onclick="filterData('Travel','news')">Travel</a>
+                  <a onclick="filterData('food','news')">Food</a>
+               </div>
+            </li>
+         </div>
+            <div class="blogs-card">
+            </div>
+         </div>
+         <!-- Update on upcoming events -->
+         <div class="events">
+            <div class="sectio-head">
+            <h2 class="section_title">Update on upcoming events</h2>
+            <li class="nav-item dropdown links filter">
+               <button class="dropbtn">Categories</button>
+               <div class="dropdown-content">
+                  <a onclick="filterData('tech','event')">Technology</a>
+                  <a onclick="filterData('Travel','event')">Travel</a>
+                  <a onclick="filterData('food','event')">Food</a>
+               </div>
+            </li>
+         </div>
+            <div class="event-card">
+               <div class="event-cards">
+               </div>
+            </div>
+         </div>
+         <div class="jobs">
+            
+            <h2 class="section_title">Job Listing</h2>
+            <div class="job-cards">
+               <div class="j-card">
+                  <h2>Android App Development</h2>
+                  <h6 class="company-name">OST Placement Search Private Limited</h6> <br>
+                  <div class="job-dec">
+                     <p id="flex aline-center">
+                        <svg style="width: 15px; margin-right: 2px; text-align: center;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="home">
+                           <path d="M20,8h0L14,2.74a3,3,0,0,0-4,0L4,8a3,3,0,0,0-1,2.26V19a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V10.25A3,3,0,0,0,20,8ZM14,20H10V15a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1Zm5-1a1,1,0,0,1-1,1H16V15a3,3,0,0,0-3-3H11a3,3,0,0,0-3,3v5H6a1,1,0,0,1-1-1V10.25a1,1,0,0,1,.34-.75l6-5.25a1,1,0,0,1,1.32,0l6,5.25a1,1,0,0,1,.34.75Z"></path>
+                        </svg>
+                        <span>Work from</span>
+                     </p>
+                     <div class="flex">
+                        <div class="flex-col">
+                           <div class="flex">
+                              <svg style="width: 15px; margin-right: 2px; text-align: center;" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" id="date">
+                                 <path d="M2,19c0,1.7,1.3,3,3,3h14c1.7,0,3-1.3,3-3v-8H2V19z M19,4h-2V3c0-0.6-0.4-1-1-1s-1,0.4-1,1v1H9V3c0-0.6-0.4-1-1-1S7,2.4,7,3
+                                    v1H5C3.3,4,2,5.3,2,7v2h20V7C22,5.3,20.7,4,19,4z"></path>
+                              </svg>
+                              <span>
+                              Start date
+                              </span>
+                           </div>
+                           <span class="start_immediately_mobile">Immediately</span>
+                        </div>
+                        <div class="flex-col details">
+                           <div class="flex aline-center">
+                              <svg style="width: 15px; margin-right: 2px; text-align: center;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cash" viewBox="0 0 16 16">
+                                 <path d="M8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+                                 <path d="M0 4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4zm3 0a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2V6a2 2 0 0 1-2-2H3z"/>
+                              </svg>
+                              <span>CTC</span>
+                           </div>
+                           <div class="flex aline-center">
+                              <svg style="margin-right: 2px; text-align: center;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+                                 <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4v1.06Z"/>
+                              </svg>
+                              2 LPA
+                           </div>
+                        </div>
+                        <div class="flex-col details">
+                           <div class="flex aline-center">
+                              <svg style="margin-right: 2px; text-align: center;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hourglass-bottom" viewBox="0 0 16 16">
+                                 <path d="M2 1.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1h-11a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1-.5-.5zm2.5.5v1a3.5 3.5 0 0 0 1.989 3.158c.533.256 1.011.791 1.011 1.491v.702s.18.149.5.149.5-.15.5-.15v-.7c0-.701.478-1.236 1.011-1.492A3.5 3.5 0 0 0 11.5 3V2h-7z"/>
+                              </svg>
+                              <span>
+                              Experience
+                              </span>
+                           </div>
+                           <div class="item_body desktop-text">0-2 years</div>
+                        </div>
+                     </div>
+                     <br>
+                     <div class="btn btn-primary" style="padding: 0px 2px;;">View details</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <script src="./index.js"></script>
+   </body>
+</html>

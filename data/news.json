@@ -1,0 +1,68 @@
+[
+  {
+    "title": "ChatGPT Vs Bard: Which is better for coding?",
+    "tag": "tech",
+    "img" : "https://www.pluralsight.com/content/dam/ps/images/resource-center/blog/ChatGPT-vs-Bard-c.png",
+    "dec": "For programmers, Generative AI offers tangible benefits. It helps with writing and debugging code, making our busy lives a bit easier as a result. But there are now competing tools like ChatGPT and Bard, which begs the question: which one is best for me to use? We compare these tools against each other in the ultimate battle to see which is the most feature-rich tool right now for programming purposes."
+  },
+  {
+    "title": "Gen AI and AR/VR: Unintended Consequences, Unproven Mainstream Appeal",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/04/vr-female.jpg",
+    "dec": "Over the past few months, I’ve been reading with increasing fascination the tech segment’s obsession with high-profile apps like ChatGPT, the poster child of generative AI apps that have burst on the scene. In my more than 25 years in technology, I’ve never seen anything attract the attention of a new capability like Gen AI. More intriguing is not merely the obsession but the fact that many high-profile companies have been caught off guard by the media and customer interest and still can’t clearly articulate how they’ll be able to participate in the industry’s mad gold rush."
+  },
+  {
+    "title": "Windows 11 AI Integration Signals New Era for User Experiences",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/09/Windows-11.jpg",
+    "dec": "When I joined IBM in the 1980s, they assigned me the task of helping create what eventually became one of the very first CRM applications. Like most at that time, I had to work with MIS (now called IT), and the result was dreadful. Instead of the app making things easier by automating many repetitive manual tasks, it required more labor, was incredibly annoying to use, and showcased a disconnect between what I thought I’d asked for and what MIS delivered."
+  },
+  {
+    "title": "Apple Vision Pro: Gateway to a New Computing Future",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/06/Apple-Vision-Pro-wearability.jpg",
+    "dec": "I have my doubts about whether Apple’s Vision Pro, which was announced last week but will not be available until 2024, will be successful. My doubts mostly revolve around Apple’s current strategy, which is to avoid collapsing existing markets, something Apple had to do to make the iPhone successful, and because the company partners poorly and will need a lot of focused partners to make this product work."
+  },
+  {
+    "title": "Generative AI Is Here: Forrester Offers Tech Execs Tips on Next Steps",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/04/business-meeting-1.jpg",
+    "dec": "Tech execs looking to get the most value for their organizations from generative AI need to understand the basics of the technology, according to a report released Tuesday by Forrester Research. “The tech world has been disappointed by several recent bubbles promising much but delivering no real value, but generative AI is already improving content creation, software development, and knowledge management at enterprises,” the report noted."
+  },
+  {
+    "title": "Researchers Instantly Crack Simple Passwords With AI",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/04/ai-cybersecurity-lock.jpg",
+    "dec": "For years the security industry has stressed the importance of strong passwords. Some recent research from Home Security Heroes starkly shows the value of that advice. Using artificial intelligence, the crew at the home security information and reviews website cracked passwords in the four- to seven-character range either instantly or in a matter of minutes — even when the passwords contained a mix of numbers, upper and lower case letters, and symbols."
+  },
+  {
+    "title": "Google Invites Public To Test Drive Its AI Chatbot Bard",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/03/Bard-wait-list.jpg",
+    "dec": "For programmers, Generative AI offers tangible benefits. It helps with writing and debugging code, making our busy lives a bit easier as a result. But there are now competing tools like ChatGPT and Bard, which begs the question: which one is best for me to use? We compare these tools against each other in the ultimate battle to see which is the most feature-rich tool right now for programming purposes."
+  },
+  {
+    "title": "The Importance of Microsoft’s 5-Point Blueprint for Public Governance of AI",
+    "tag": "tech",
+    "img" : "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/05/ai-brain.jpg",
+    "dec": "Many technology leaders agree that while AI could be hugely beneficial to humans, it could also be misused or, through negligence, terminally damage humanity. But looking to governments to address this problem without guidance would be foolish given that politicians often don’t even understand the technology they’ve used for years, let alone something that just made it to market."
+  },
+  {
+    "title": "THE BEST WALKING TOURS IN MEXICO CITY",
+    "tag": "Travel",
+    "img" : "https://media.nomadicmatt.com/2023/mexicocitywalks.jpeg",
+    "dec": "I love Mexico City. It’s dynamic, diverse, bustling, and filled with incredible museums and restaurants. There’s so much to do here. It takes a long time to peel back the layers of this onion and get to the essence of the city. We run week long tours to the city and that only gets you a good overview of it all!"
+  },
+  {
+    "title": "WHERE TO STAY IN NEW ORLEANS: THE BEST NEIGHBORHOODS FOR YOUR VISIT",
+    "tag": "Travel",
+    "img" : "https://media.nomadicmatt.com/2023/wheretostaynola.jpeg",
+    "dec": "New Orleans is known for its rambunctious nightlife and wild Mardi Gras.But there’s more to the Big Easy than the frozen drinks on Bourbon Street. It’s essential to branch out during your visit. The Garden District, the Central Business District (aka CBD), the Marigny, Bywater, and Mid-City (among other neighborhoods) all have their own distinct style, vibe, and personality."
+  },
+  {
+    "title": "HOW MUCH DOES IT COST TO TRAVEL WESTERN EUROPE?",
+    "tag": "Travel",
+    "img" : "https://media.nomadicmatt.com/costofparis.jpg",
+    "dec": "Europe. Prices vary greatly depending on how far north, east, south or west you travel. After all, Europe is huge with multiple visa zones and multiple currencies. For 45 EUR, you can get a private room in parts of Greece. For that same price in Paris, you may get a 16-person dorm room. You can get delicious and cheap street food in Berlin for under 10 EUR, but even a casual sit-down meal in Austria can cost around 25 EUR and it can easily double that in Norway!"
+  }
+]

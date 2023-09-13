@@ -1,0 +1,30 @@
+[
+  {
+    "title": "WiX — Learn How to Build Your Website with WiX",
+    "tag":"tech",
+    "date" :"Jun 9" ,
+    "img": "https://cdn-az.allevents.in/events5/banners/10111eb5a8d0d358847a1c90a61667176cfcab9a13c1b30c7a62b3d0075b5eb0-rimg-w1200-h600-gmir.jpg?v=1683655468",
+    "dec": "Workshop format This workshop will be presented over 2 x 4-hr sessions and will be run via Zoom from 6pm to 10pm Sydney, Australia time. Participants will be asked to complete homework before each session. Target audience: Physiotherapists, occupational therapists and exercise physiologists who work with people with neurological conditions and/or older people in inpatient, outpatient or community settings, in private or public settings."
+  },
+  {
+    "title": " Open AI: Chat GPT Hackathon 2023",
+    "tag":"tech",
+    "date" :"Jun 16" ,
+    "img": "https://cdn-az.allevents.in/events5/banners/7ad125e1321140ab76e7749519337cc7e3a407e8b57222fa059df30a93f7907b-rimg-w1200-h600-gmir.jpg?v=1684955409  ",
+    "dec": "Open AI: Chat GPT Hackathon es un formato de Hackathon virtual, 100% online con una duración de 6 días .27 de Junio al 2 de Julio, 2023 - El mejor talento de México se unirá en el Chat GPT Hackathon edición 2023 patrocinado por Ai Lab School. Crea tu app con Chat GPT en 6 días Crea un App conectada a Chat GPT en 6 días - Hackathon enfocado al desarrollo de de soluciones basadas con tecnología de Chat GPT . Se tendrán bootcamps y talleres especializados en el desarrollo de herramientas utilizando Chat GPT."
+  },
+  {
+    "title": "Heart Hackathon: Virtual Tour Industry Showcase",
+    "tag":"tech",
+    "date" :"Jun 28" ,
+    "img": "https://cdn-az.allevents.in/events5/banners/b25caf172d7df9ccdc48b28c1065ac33736cc20206812c3df70fbe0c2a238a9f-rimg-w1200-h600-gmir.jpg?v=1686231062",
+    "dec": "Join the Heart Hackathon community for virtual tours showcasing"
+  },
+  {
+    "title": "Space Data Hackers - June Meetup - SatGPT",
+    "tag":"tech",
+    "date" :"Jun 30" ,
+    "img": "https://cdn-az.allevents.in/events5/banners/b6e1d6ae45dd6a0c511cdfadc2f3e4345120a67894a0f537b345228d8d21a152-rimg-w1200-h488-gmir.jpg?v=1686226111",
+    "dec": "Do you want to learn how to use GPT and other powerful language models to simplify and enhance your Earth observation data analysis? Then don’t miss the June Space Data Hackers meetup, where Kevin Lalli will share his insights and experiences from working with cutting-edge optical systems for space, Earth, and metaverse applications. Kevin is currently the Payload Systems Lead at Hydrosat, a company that is building its own fleet of thermal imaging satellites. He has also worked on remote sensing projects for Planetary Resources, Bluefield Technologies, and Amazon Kuiper. Join us for an exciting and informative session with Kevin! Space Data Hackers is a community for people who love data and space. We explore datasets captured from space, share knowledge and build skills for putting data to use to solve problems for our communities, businesses and the world. We welcome all levels to join us for open discussion and talks from scheduled speakers about navigating data sets, machine learning, data analysis and cloud computing. Dive into space data with Space Data Hackers!"
+  }
+]

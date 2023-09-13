@@ -1,0 +1,34 @@
+[
+    {
+        "job_title" : "Android App Development",
+        "company" : "OST Placement Search Private Limited",
+        "loaction" : "Work from",
+        "date" : "Immediately",
+        "CTC" : "2 LPA",
+        "experience" : "0-2 years"
+    },
+    {
+        "job_title" : "Web App Development",
+        "company" : "OST Placement Search Private Limited",
+        "loaction" : "Work from",
+        "date" : "Immediately",
+        "CTC" : "1.5 LPA",
+        "experience" : "0-2 years"
+    },
+    {
+        "job_title" : "Fullter App Development",
+        "company" : "OST Placement Search Private Limited",
+        "loaction" : "Work from",
+        "date" : "Immediately",
+        "CTC" : "2.1 LPA",
+        "experience" : "0-2 years"
+    },
+    {
+        "job_title" : "React App Development",
+        "company" : "OST Placement Search Private Limited",
+        "loaction" : "Work from",
+        "date" : "Immediately",
+        "CTC" : "2.6 LPA",
+        "experience" : "0-2 years"
+    }
+]
